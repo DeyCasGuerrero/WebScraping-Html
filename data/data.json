@@ -1,0 +1,54 @@
+[
+  {
+    "language": "JavaScript",
+    "percentage": "63.61"
+  },
+  {
+    "language": "HTML/CSS",
+    "percentage": "52.97"
+  },
+  {
+    "language": "Python",
+    "percentage": "49.28"
+  },
+  {
+    "language": "SQL",
+    "percentage": "48.66"
+  },
+  {
+    "language": "TypeScript",
+    "percentage": "38.87"
+  },
+  {
+    "language": "Bash/Shell (all shells)",
+    "percentage": "32.37"
+  },
+  {
+    "language": "Java",
+    "percentage": "30.55"
+  },
+  {
+    "language": "C#",
+    "percentage": "27.62"
+  },
+  {
+    "language": "C++",
+    "percentage": "22.42"
+  },
+  {
+    "language": "C",
+    "percentage": "19.34"
+  },
+  {
+    "language": "PHP",
+    "percentage": "18.58"
+  },
+  {
+    "language": "PowerShell",
+    "percentage": "13.59"
+  },
+  {
+    "language": "Go",
+    "percentage": "13.24"
+  }
+]

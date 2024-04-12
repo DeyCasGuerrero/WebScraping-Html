@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="src/output.css" rel="stylesheet">
+    <title>Web Scraping</title>
+</head>
+
+<body>
+    <main class="flex flex-col m-10 max-md:m-2"> 
+        <div class="bg-green-200 w-full p-7 rounded-xl shadow-custom max-md:bg-red-200 ">
+            <h1 class="text-3xl text-center max-md:text-xl font-bold">LENGUAJES DE PROGRAMACION</h1>
+            <br>
+            <ul id="languageList">
+            </ul>
+        </div>
+
+        <div class="w-full h-screen flex items-center flex-col mt-20">
+            <div class=" font-sans font-bold flex justify-center mb-20 max-md:text-sm">
+                <button class="w-24 h-16 bg-orange-400 ml-10 mr-10 rounded-lg hover:bg-blue-400 hover:text-white hover:shadow-lg transition duration-300 ease-in-out max-md:m-1" data-type="bar" >BARRAS</button>
+                <button class="w-24 bg-orange-400 rounded-lg hover:bg-blue-400 hover:text-white hover:shadow-lg transition duration-300 ease-in-out " data-type="line" >LINEAL</button>
+                <button class="w-24 bg-orange-400 ml-10 mr-10 rounded-lg hover:bg-blue-400 hover:text-white hover:shadow-lg transition duration-300 ease-in-out max-md:m-1" data-type="pie" >CICULAR</button>
+            </div>
+            <canvas id="myChart"></canvas>
+        </div>
+        
+
+    </main>
+
+    <script src="src/js/app.js">
+    </script>   
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</body>
+
+</html>
