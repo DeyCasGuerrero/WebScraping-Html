@@ -1,7 +1,7 @@
 
 async function fetchDataAndRenderChart() {
     try {
-        const response = await fetch("../../data/data.json");
+        const response = await fetch("https://deycasguerrero.github.io/WebScraping-html/data/data.json");
         if (!response.ok) {
             throw new Error('Network response was not ok.');
         }
