@@ -27,4 +27,4 @@ Estoy usando una libreria (Chart js) para los graficos dinamicos, estos vienen y
 ## Pasos para la instalación
 1) Puede ir al siguiente link [CHART JS](https://www.chartjs.org/) y ver su documentacion como el script para traer la libreria.
 2) traes el link y lo usas en la parte final de tu boby HTML.
-3) Podras ver como se genera el grafico mediante JavaScript en mi funcion "renderChart()" [Función](src/js/app.js)
+3) Podras ver como se genera el grafico mediante JavaScript en mi funcion "renderChart()" [función renderChart()](src/js/app.js)
