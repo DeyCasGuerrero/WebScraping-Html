@@ -1,4 +1,4 @@
-[SPANISH](CN_README.md) | EN
+[SPANISH](README.md) | EN
 
 ## WEB SCRAPING
 # Introduction
